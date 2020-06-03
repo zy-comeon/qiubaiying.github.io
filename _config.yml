@@ -1,18 +1,18 @@
 # Site settings
-title: BY rbaot
-SEOTitle: 逆舟的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: 逆舟 #你博客的标题
+SEOTitle: 逆舟博客    #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
 email: 942628598@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 逆舟的博客, qiubaiying, 逆舟, iOS, Apple, iPhone"
-url: "http://zy-comeon.github.io"          # your host, for absolute URL
+description: "学如逆水行舟"  #网站介绍
+keyword: "BY, BY Blog, 逆舟的博客, qiubaiying, 逆舟, iOS, Apple, iPhone"  #关键词
+url: "https://zy-comeon.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zy-comeon/zy-comeon.github.io" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # whether or not using Sidebar. 是否开启侧边栏.
+sidebar-about-description: "学如逆水行舟"  #"说点装逼的话。。。"
+sidebar-avatar: /img/avatar_m.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
 
